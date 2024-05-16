@@ -1,0 +1,230 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\.c0408c64d0af8d27596479beb193902b5dfe3789-audit.json",
+    "files": [
+        {
+            "date": 1714633849167,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-02-05-13-success.log",
+            "hash": "2796fd08af824144b93b144105e0f41d98a43d5ddf6ed90f54edb30859f22dae"
+        },
+        {
+            "date": 1714671257775,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-02-05-23-success.log",
+            "hash": "956bc01ada78804caa12bbe4e78519cdf0ade1bdf660787756f20a310753b715"
+        },
+        {
+            "date": 1714736484183,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-03-05-17-success.log",
+            "hash": "b116a901997d7f8a5453fcf18c61db75df311a8cfacf71c346c1db5d01c25c39"
+        },
+        {
+            "date": 1714741071194,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-03-05-18-success.log",
+            "hash": "4ee566720095e0eec2d1bb3c75d84203b3d9fb6ab1ee6fe841fefd7a521fdc5d"
+        },
+        {
+            "date": 1714791245598,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-04-05-08-success.log",
+            "hash": "6bd3b867057d95fcab889a1e30ac536daa592e8b41ab9ac61b7b6bc3158fea62"
+        },
+        {
+            "date": 1714845099279,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-04-05-23-success.log",
+            "hash": "f0ec1eff781ad00df4543ba94b6dd0d7708723171f08f2fa345ec1c910bfdbcf"
+        },
+        {
+            "date": 1714891750230,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-05-05-12-success.log",
+            "hash": "68f9d1830f93293385750ec0f2ca5e938e580fa3aba13bda1db290eb42a9f4a4"
+        },
+        {
+            "date": 1714919626060,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-05-05-20-success.log",
+            "hash": "14ca85919c7a1058e2ff1830038682edd8301e37f31e89e97908298a70c8232f"
+        },
+        {
+            "date": 1714925278037,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-05-05-22-success.log",
+            "hash": "4c89279fa51c4b7b994184792496faa3a4f0035c7066445b0c3afe51a1893f9c"
+        },
+        {
+            "date": 1714929656536,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-05-05-23-success.log",
+            "hash": "d556e348827a620a0d9e4801c53c0dbb2dd6dd4c073a2d43d8ef5a56d2ff4349"
+        },
+        {
+            "date": 1714979375006,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-06-05-13-success.log",
+            "hash": "856922f18fbc4022fa8b3fbd32d2cf2158b4ab1a79e57373c55a2de676552c3a"
+        },
+        {
+            "date": 1714982880317,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-06-05-14-success.log",
+            "hash": "f249a2f1fe5c0a270f13e806c3e8859a6bcb7fea756df3b1d4abdb30becbf898"
+        },
+        {
+            "date": 1715050725460,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-07-05-08-success.log",
+            "hash": "09f9f81019c47a45f994244b4dc525d5dcc4cf6f1b155a984122099d7709a372"
+        },
+        {
+            "date": 1715051132089,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-07-05-09-success.log",
+            "hash": "d9fc8b427189c6f84426a56099605e7687f512ed83d3502677a63f2fd59faf58"
+        },
+        {
+            "date": 1715095583327,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-07-05-21-success.log",
+            "hash": "26d8cf63ba7c7187b26f456d93b1b8070f7dc2e4ce8595c758424af7db3d449e"
+        },
+        {
+            "date": 1715097604608,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-07-05-22-success.log",
+            "hash": "55ddeb85945cd552179d95c7ec3edd7233a6bd70acf73fd6fef99ab891a2042e"
+        },
+        {
+            "date": 1715106321746,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-08-05-00-success.log",
+            "hash": "c378b2141ae717a232739cb13b3405760dd31128c388d535e5c878c64c4e3d94"
+        },
+        {
+            "date": 1715139610300,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-08-05-09-success.log",
+            "hash": "18b31cd4fc3549a9054f72da84b9f860680417607705a83973cec924e6fac0d8"
+        },
+        {
+            "date": 1715140877559,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-08-05-10-success.log",
+            "hash": "e4fc8050834c0f6c61fee44a76c618376a28a18970ffc0516f96cc84cdba4e2a"
+        },
+        {
+            "date": 1715178432445,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-08-05-20-success.log",
+            "hash": "16b0d05989fca4db5ab0ff6622752b699ab8a6d0771e97b1990a48d7b02886f5"
+        },
+        {
+            "date": 1715181194653,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-08-05-21-success.log",
+            "hash": "21cbc65d60aafb5a8cde8ddb5d22e1e3b7182825a24b30e8f9f51bb769b7ed8d"
+        },
+        {
+            "date": 1715245692972,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-09-05-15-success.log",
+            "hash": "083a0ea97dfb2d0fa1201395ead65e8aeedcfe2b893a7e2ca04e7b0767455a47"
+        },
+        {
+            "date": 1715255443764,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-09-05-17-success.log",
+            "hash": "615c8fe3d549adbbf6b9d9dcffaf41524e33f738233614ce522355afa248bbc4"
+        },
+        {
+            "date": 1715269330900,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-09-05-21-success.log",
+            "hash": "12398a6b0cb74249589f407f5db1f8c8ac09f5b52226b8a5ab3954a36aa05345"
+        },
+        {
+            "date": 1715321151074,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-10-05-12-success.log",
+            "hash": "fc53b9bd03c172cc93cc3684eb221123b06ab6af5067c00084336620222e98c0"
+        },
+        {
+            "date": 1715328646668,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-10-05-14-success.log",
+            "hash": "193b01695abcc2eb9e322436caa03d5f110139cd2ee5b11a72e6b260706b2b8f"
+        },
+        {
+            "date": 1715349434899,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-10-05-19-success.log",
+            "hash": "4499891ae28341a3ee3fa0b735866ec3bebf7b596d61144f090885dc62956da6"
+        },
+        {
+            "date": 1715400077290,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-11-05-10-success.log",
+            "hash": "7e0ba812c8264e4590fae9a5ea87c67356bf122db2895fec97862b7baa7c4269"
+        },
+        {
+            "date": 1715409035555,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-11-05-12-success.log",
+            "hash": "1a4b1e6bcf9766e22e79a71c260f073b673fd38cbee1e4cde2109cc7c2aff37e"
+        },
+        {
+            "date": 1715417180154,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-11-05-14-success.log",
+            "hash": "a5554617cd557a6c7a68fe6898dbb6ca989604daa2f1cf66645168902d7d5790"
+        },
+        {
+            "date": 1715430274682,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-11-05-18-success.log",
+            "hash": "8f0c40d2a5d2026c7f0df4e6000c032f4da2c69e0cde355d8de0b8d02145cc43"
+        },
+        {
+            "date": 1715436284929,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-11-05-20-success.log",
+            "hash": "629a4495cbec5dff1961232c6bb20720e959398c272c319783d025709605f739"
+        },
+        {
+            "date": 1715523561492,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-12-05-20-success.log",
+            "hash": "3d907d3f72692a109fd6780bfd291ee45b4f56736033ffbd00deed1ffd1446d1"
+        },
+        {
+            "date": 1715583125094,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-12-success.log",
+            "hash": "709bd8a4b586b7ef03d8af508ea37b68878c4a538674d4dbe70d19054eaec534"
+        },
+        {
+            "date": 1715586430272,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-13-success.log",
+            "hash": "8886d878c48931d04b125073db97c8c9f6d0237d4c590cf3c66ba2229c78f42c"
+        },
+        {
+            "date": 1715603060378,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-18-success.log",
+            "hash": "f0e6980cb8000f71269519db03e58926d61b1550037bb5ff363a500d32b4c8e2"
+        },
+        {
+            "date": 1715606419985,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-19-success.log",
+            "hash": "da2ed341aff2c6fdd85ba0c47637524d560dcb3980c5524844e26872047250ca"
+        },
+        {
+            "date": 1715610304915,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-20-success.log",
+            "hash": "b8f1156d7836bfd7a2d81255bb8ac923741bd805d5b704d28a3c64c08ad95322"
+        },
+        {
+            "date": 1715617732985,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-13-05-22-success.log",
+            "hash": "90f4b37e05f9d278111218db56f6a71365910a1099419a2065d8b1104b3a9c25"
+        },
+        {
+            "date": 1715659890644,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-14-05-10-success.log",
+            "hash": "f93c51a1bbc56aa18b6d4ed75b9d46721d47f367f76124222e369ba7b1437cc9"
+        },
+        {
+            "date": 1715665703657,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-14-05-11-success.log",
+            "hash": "1a02426cfaa7b470f446572255e99fc8bee1140432c03d9138dc0c7041451096"
+        },
+        {
+            "date": 1715746324048,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-15-05-10-success.log",
+            "hash": "eb91c6fe445708b308e0bd648f89cd2b688ed36d86dc0765000f88c9333cee58"
+        },
+        {
+            "date": 1715751598079,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-15-05-11-success.log",
+            "hash": "01e2a79231e0305a2cb7f4b3596c497f7b4b44bf0451ce4f63ceff83e4fcc023"
+        },
+        {
+            "date": 1715785459436,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\successes\\phu-2024-15-05-21-success.log",
+            "hash": "03d133203b6c1e2f7c1fe4a2e7785ad7fd1e84636ca880d79bafedb8393cd008"
+        }
+    ],
+    "hashType": "sha256"
+}

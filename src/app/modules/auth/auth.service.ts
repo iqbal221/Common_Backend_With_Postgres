@@ -7,12 +7,13 @@ import { prisma } from '../../../shared/prisma';
 import { ILoginUser, IUserLoginResponse } from './auth.interface';
 
 const loginUser = async (payload: ILoginUser): Promise<IUserLoginResponse> => {
-  const { userId, password } = payload;
+  const { userId, password, role } = payload;
 
-  const isUserExist = await prisma.admin.findFirst({
+  const isUserExist = await prisma.user.findFirst({
     where: {
       userId,
       password,
+      role,
     },
   });
 
@@ -21,9 +22,9 @@ const loginUser = async (payload: ILoginUser): Promise<IUserLoginResponse> => {
   }
 
   //create access token & refresh token
-  const { userId: adminId } = isUserExist;
+  const { userId: id, role: userRole } = isUserExist;
   const accessToken = jwtHelpers.createToken(
-    { adminId },
+    { id, userRole },
     config.jwt.secret as Secret,
     config.jwt.expires_in as string
   );
@@ -36,7 +37,7 @@ const loginUser = async (payload: ILoginUser): Promise<IUserLoginResponse> => {
 const GetUser = async (
   userData: JwtPayload | null
 ): Promise<ILoginUser | null> => {
-  const result = await prisma.admin.findFirst({
+  const result = await prisma.user.findFirst({
     where: {
       userId: userData?.userId,
     },

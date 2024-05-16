@@ -8,7 +8,7 @@ import routes from './app/routes';
 
 const app: Application = express();
 
-app.use(cors());
+app.use(cors({ origin: 'http://localhost:3000', credentials: true }));
 app.use(cookieParser());
 
 //parser
@@ -17,9 +17,9 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use('/api/v1', routes);
 
-// app.get("/",(req,res)=>{
-//   res.send("AN MART is running")
-// })
+app.get('/', (req, res) => {
+  res.send('SCHOOL MANAGEMENT APPS IS RUNNING');
+});
 
 //global error handler
 app.use(globalErrorHandler);

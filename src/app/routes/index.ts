@@ -1,7 +1,9 @@
 import express from 'express';
+import { ExpenseRoutes } from '../modules/Expenses/expense.routes';
+import { FeesManagementRoutes } from '../modules/FeesManagement/feesManagement.routes';
 import { adminRoutes } from '../modules/admin/admin.routes';
 import { authRoutes } from '../modules/auth/auth.routes';
-import { newArrivalProductRoutes } from '../modules/newArrivalProduct/newArrivalProduct.routes';
+import { StudentRoutes } from '../modules/student/student.routes';
 import { userRoutes } from '../modules/user/user.routes';
 
 const router = express.Router();
@@ -9,8 +11,16 @@ const router = express.Router();
 const moduleRoutes: any[] = [
   // ... routes
   {
-    path: '/new-arrival-product',
-    route: newArrivalProductRoutes,
+    path: '/student',
+    route: StudentRoutes,
+  },
+  {
+    path: '/feesManagement',
+    route: FeesManagementRoutes,
+  },
+  {
+    path: '/expense',
+    route: ExpenseRoutes,
   },
   {
     path: '/auth',

@@ -1,0 +1,230 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\.bba10fe665abf8d9ab3100c8be74f9ff3e78d212-audit.json",
+    "files": [
+        {
+            "date": 1714633849536,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-02-05-13-error.log",
+            "hash": "d3a564cc9e783ac939359d6f5c362cf7d3bf8998b26f315847c5c96d070e4177"
+        },
+        {
+            "date": 1714671257992,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-02-05-23-error.log",
+            "hash": "f449d3a59523a1bcb90d27d175f20e5dc21c2127529bb6a343c1e9345a13547e"
+        },
+        {
+            "date": 1714736484355,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-03-05-17-error.log",
+            "hash": "9de1640de48c601631c8b36b5d414dd93b374f267c9662ffcff495ba01904cda"
+        },
+        {
+            "date": 1714741071245,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-03-05-18-error.log",
+            "hash": "bbb3553c2c52f9bb56efb81403318349d5edefd25ea95a0e67e8b208989ca17d"
+        },
+        {
+            "date": 1714791245815,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-04-05-08-error.log",
+            "hash": "654fe3e657efb5a2e8f04006d6300bfaa80153f8eddb29811130d38e7730132e"
+        },
+        {
+            "date": 1714845099399,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-04-05-23-error.log",
+            "hash": "9920038be31b64b560798225b828cf6ddde6c0e4db7f46c2101d31564c6ebfd5"
+        },
+        {
+            "date": 1714891751353,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-05-05-12-error.log",
+            "hash": "a9e42810dc117e7cdb55ad810f058ee0d41eb915d34e134583d5c0cd2e9efc6d"
+        },
+        {
+            "date": 1714919626191,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-05-05-20-error.log",
+            "hash": "0c37166248a3468b3927669b4671b33dc4bcf84a1c57b9465cb4ffdfa44c8916"
+        },
+        {
+            "date": 1714925278055,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-05-05-22-error.log",
+            "hash": "989cdf7edb8e68fdf19daebf7eed66d0652575fcb53fa1c1c4d5354c9ea8f7c1"
+        },
+        {
+            "date": 1714929656697,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-05-05-23-error.log",
+            "hash": "f26144f2c4abb9389a71e3a7e1c63dff4fabd2f890d8b4ae1867f6dd2d5afeea"
+        },
+        {
+            "date": 1714979375104,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-06-05-13-error.log",
+            "hash": "c163dace1df47fe9d0795d5348447e4f389b0bf020bdc4b21d2a2f8e67f123a5"
+        },
+        {
+            "date": 1714982880375,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-06-05-14-error.log",
+            "hash": "f4436378d73654de3ddf382fd576b70118570d4df2c427b334b3a6ab940bf401"
+        },
+        {
+            "date": 1715050725565,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-07-05-08-error.log",
+            "hash": "8ec59957274bc0c94a11b289b090084e1f29d5650f759e52a0d31a97135378cb"
+        },
+        {
+            "date": 1715051132107,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-07-05-09-error.log",
+            "hash": "416599a51e2b2247ac0150e717f1c603e0c314dd93e1b6d9d34e239136034310"
+        },
+        {
+            "date": 1715095583457,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-07-05-21-error.log",
+            "hash": "1470f5e7111ca3ffd68f32fe78f839028ccb273345c8c8d37c5621621b93851e"
+        },
+        {
+            "date": 1715097604640,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-07-05-22-error.log",
+            "hash": "cddad35c7503510df721b7bb528c4e98261be6ab25e6790f6b9b9c0e2fc16993"
+        },
+        {
+            "date": 1715106321770,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-08-05-00-error.log",
+            "hash": "9c9dd40efd8d9d3b858a9cd2ef9faee73ac51e06a1c23687b9e2987b2b593432"
+        },
+        {
+            "date": 1715139610452,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-08-05-09-error.log",
+            "hash": "e61bd82ddab8722396c2541129602c0d0a2a7bf99bed9f364263e82e5a37af30"
+        },
+        {
+            "date": 1715140877602,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-08-05-10-error.log",
+            "hash": "fccfc0b0ebf44b16885004b549c85d4b73ade9a3d5a7c7902cfe749f17dcf47b"
+        },
+        {
+            "date": 1715178432582,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-08-05-20-error.log",
+            "hash": "2a03b4415da0b1f4229b3c430a40c0ac0221e8a63aeb891d4fa9d8b9dcc9ce31"
+        },
+        {
+            "date": 1715181194665,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-08-05-21-error.log",
+            "hash": "0e17e8ed0f960f5fe24fbc7235cab270f8c701bf2cf9905ab72901ac7b5afefa"
+        },
+        {
+            "date": 1715245693056,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-09-05-15-error.log",
+            "hash": "5498f402ea5ad7e25fe1bccb10b48a746c1ce81e0b976083c0a229dd2674eb0f"
+        },
+        {
+            "date": 1715255444144,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-09-05-17-error.log",
+            "hash": "2225f9e59b3402087d2c65e15186e86113eb12e58e60f5772e7f26c9917372c8"
+        },
+        {
+            "date": 1715269331092,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-09-05-21-error.log",
+            "hash": "1e0654d59cd54a80e8915466b662cbceca5467dbe1a29c3f2a533c8d383d98b8"
+        },
+        {
+            "date": 1715321151369,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-10-05-12-error.log",
+            "hash": "c090e1b3e9654096d561d6b22361637035e23d40a398c60ed1bc2be96395cca5"
+        },
+        {
+            "date": 1715328646720,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-10-05-14-error.log",
+            "hash": "c4b67e5dfbec1a5c3f5ee36adda1b9cd6db13e0ce72526c62190e14ac6abcc82"
+        },
+        {
+            "date": 1715349435037,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-10-05-19-error.log",
+            "hash": "368569861652bf22e8f1fa24a9a599427ae8b512899e55cbeeb8a3bbc0038eb6"
+        },
+        {
+            "date": 1715400077517,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-11-05-10-error.log",
+            "hash": "4fae4dccc889b83c53af9c8d055911d06e9df369adb154d622c088b27fb848d2"
+        },
+        {
+            "date": 1715409035594,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-11-05-12-error.log",
+            "hash": "0cdf10d1f4929821d89077e4b200500e7da638eaa93b20b1c3848cf94120bb8a"
+        },
+        {
+            "date": 1715417180619,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-11-05-14-error.log",
+            "hash": "90f40b182094b235dcee8e9c81b3048bf5574a9c48094e67ec84cc94b99ac6e5"
+        },
+        {
+            "date": 1715430275092,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-11-05-18-error.log",
+            "hash": "61553b135b34a8a18c7013701a1170ad03eb155317f26ee9eb9b765185ac8e9e"
+        },
+        {
+            "date": 1715436285104,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-11-05-20-error.log",
+            "hash": "f25bb8dc2790413ddea2cca6b1714319cec3e92a2a85537a5959366b7c6bf4a9"
+        },
+        {
+            "date": 1715523561625,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-12-05-20-error.log",
+            "hash": "91e5d33fac922479b3600ef73073c41c63268abafa9580f6e26140e559cfc074"
+        },
+        {
+            "date": 1715583125131,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-12-error.log",
+            "hash": "c714995c24cbe217ca87eb5b33d64615ee210518de6319e4199f775ba11870b1"
+        },
+        {
+            "date": 1715586430450,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-13-error.log",
+            "hash": "c98ac97a6d45da84b5e3ee725aded3015e9e397a96076717536ada6d4ace39a5"
+        },
+        {
+            "date": 1715603060475,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-18-error.log",
+            "hash": "295744138a7d0a236f4fb7e1605063f3dba7f3f3a4c7499814acdeb1411f3cc4"
+        },
+        {
+            "date": 1715606420007,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-19-error.log",
+            "hash": "eaa825b233212ae5900cf972196b0c06c6927439480df800be6760d1e676f077"
+        },
+        {
+            "date": 1715610304966,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-20-error.log",
+            "hash": "d2c6c2f5d0c0f3e0c7a2c7723324bd6baede77edc1ae7b76362026e7de329e5e"
+        },
+        {
+            "date": 1715617733008,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-13-05-22-error.log",
+            "hash": "aa1540d52ebcb118c0937f5e0edd23695a092c9e918153d4a631748cbafc2fe8"
+        },
+        {
+            "date": 1715659890927,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-14-05-10-error.log",
+            "hash": "8bc3ccfb24d36a82355bf897d058cec1da5ae6cde9e8a1e1b39a1f4f7cee6794"
+        },
+        {
+            "date": 1715665703747,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-14-05-11-error.log",
+            "hash": "d6ba844f42d84716c2504e6d6a47b8d07b214b349482d593fa38cae3c1c4acbc"
+        },
+        {
+            "date": 1715746324236,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-15-05-10-error.log",
+            "hash": "687a86aa910fc60e15f7c8ca9af5f378e73687bd6ae091f192fc6b7b75e1bfc0"
+        },
+        {
+            "date": 1715751598102,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-15-05-11-error.log",
+            "hash": "27e3696baad86a41e6b7bc28997151f9c87f2e72a313b8912004fe1c86e75f0d"
+        },
+        {
+            "date": 1715785459742,
+            "name": "F:\\Project\\school_management\\school_management_backend\\logs\\winston\\errors\\phu-2024-15-05-21-error.log",
+            "hash": "1693ef291e56cd66d3d42dcb3cf83826dec68f97345fab4e4e0574d964d6edc4"
+        }
+    ],
+    "hashType": "sha256"
+}
